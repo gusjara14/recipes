@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(248, 255, 155);
+    font-family: 'BrushScript MT',Arial, sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+ul, ol{ 
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 500;
+}
