@@ -1,6 +1,7 @@
 * {
     background-color: rgb(248, 255, 155);
     font-family: 'BrushScript MT',Arial, sans-serif;
+    border: 2px red;
 }
 
 h1 {
@@ -20,4 +21,10 @@ ul, ol{
 img {
     height: auto;
     width: 500px;
+    border: 10px red;
+}
+
+.homepage {
+    font-size: 14px;
+    border-color: red;
 }
